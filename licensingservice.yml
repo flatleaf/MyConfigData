@@ -1,6 +1,7 @@
-tracer.property:this is my next config file
-spring.jpa.database:oracle
-spring.jpa.show-sql:true
-spring.database.driverClassName:com.oracle.driver
-spring.datasource.username:flatleaf
-spring.datasource.password:flatleaf
+tracer.property: this is my next config file
+spring.jpa.database: oracle
+spring.jpa.show-sql: true
+spring.database.driverClassName: com.oracle.driver
+spring.datasource.username: flatleaf
+spring.datasource.password: flatleaf
+
