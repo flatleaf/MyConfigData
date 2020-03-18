@@ -2,6 +2,6 @@ tracer.property: this is my next config file
 spring.jpa.database: from oracle to mysql
 spring.jpa.show-sql: false
 spring.database.driverClassName: com.oracle.driver
-spring.datasource.username: flatleaf
-spring.datasource.password: flatleaf
+spring.datasource.username: flatleaf123
+spring.datasource.password: flatleaf123
 
