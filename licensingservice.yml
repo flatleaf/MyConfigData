@@ -1,7 +1,7 @@
 tracer.property: this is my next config file
-spring.jpa.database: from h2 to sqlserver
-spring.jpa.show-sql: true
+spring.jpa.database: from sqlserver to oracle
+spring.jpa.show-sql: false
 spring.database.driverClassName: com.oracle.driver
-spring.datasource.username: flatleaf789
-spring.datasource.password: flatleaf789
+spring.datasource.username: flatleaf012
+spring.datasource.password: flatleaf012
 
