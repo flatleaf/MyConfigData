@@ -1,6 +1,6 @@
-tracer.property: this is my next config file
-spring.jpa.database: from mysql to sqlserver
-spring.jpa.show-sql: true
-spring.database.driverClassName: com.oracle.driver
-spring.datasource.username: flatleaf567
-spring.datasource.password: flatleaf567
+tracer.property: update this file once
+spring.jpa.database: from sqlserver to redis
+spring.jpa.show-sql: false
+spring.database.driverClassName: com.oracle.redis
+spring.datasource.username: flatleaf890
+spring.datasource.password: flatleaf890
