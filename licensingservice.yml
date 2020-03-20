@@ -1,6 +1,6 @@
 tracer.property: update this file once
-spring.jpa.database: from sqlserver to redis
-spring.jpa.show-sql: false
+spring.jpa.database: from redis to oracle
+spring.jpa.show-sql: true
 spring.database.driverClassName: com.oracle.redis
-spring.datasource.username: flatleaf890
-spring.datasource.password: flatleaf890
+spring.datasource.username: flatleaf123
+spring.datasource.password: flatleaf123
